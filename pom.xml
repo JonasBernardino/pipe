@@ -28,7 +28,8 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<sonar.projectKey>exemplo-qualidade</sonar.projectKey>
+
+		<sonar.projectKey>jonasbernardino_exemplo-qualidade</sonar.projectKey>
 		<sonar.organization>jonasbernardino</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
